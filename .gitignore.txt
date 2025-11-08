@@ -1,6 +1,6 @@
 data/
 outputs/
 .ipynb_checkpoints/
-pycache/
+pycache/ (two underscores)
 .DS_Store
 *.tmp
